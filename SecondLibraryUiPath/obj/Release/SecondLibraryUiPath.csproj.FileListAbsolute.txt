@@ -1,0 +1,6 @@
+C:\Users\crm0236\source\repos\SecondLibraryUiPath\SecondLibraryUiPath\bin\Release\SecondLibraryUiPath.dll
+C:\Users\crm0236\source\repos\SecondLibraryUiPath\SecondLibraryUiPath\bin\Release\SecondLibraryUiPath.pdb
+C:\Users\crm0236\source\repos\SecondLibraryUiPath\SecondLibraryUiPath\obj\Release\SecondLibraryUiPath.csprojAssemblyReference.cache
+C:\Users\crm0236\source\repos\SecondLibraryUiPath\SecondLibraryUiPath\obj\Release\SecondLibraryUiPath.csproj.CoreCompileInputs.cache
+C:\Users\crm0236\source\repos\SecondLibraryUiPath\SecondLibraryUiPath\obj\Release\SecondLibraryUiPath.dll
+C:\Users\crm0236\source\repos\SecondLibraryUiPath\SecondLibraryUiPath\obj\Release\SecondLibraryUiPath.pdb
